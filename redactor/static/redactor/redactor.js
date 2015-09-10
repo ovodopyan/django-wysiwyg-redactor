@@ -460,7 +460,7 @@
 			return {
 				left: function()
 				{
-					this.alignment.set('');
+					this.alignment.set('left');
 				},
 				right: function()
 				{
